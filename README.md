@@ -1,7 +1,7 @@
 ### Olá 👋 eu sou o Carlos Teixeira
 
 - 🌱 Estou estudando desenvolvimento fullstack e gerenciamento de bancos de dados;
-- 👨‍🎓 Estou no terceiro ano do curso de Análise e Desenvolvimento de Sistemas;
+- 👨‍🎓 Estou no primeiro ano do curso de Análise e Desenvolvimento de Sistemas;
 - 🤔 Procuro por oportunidades na área de desenvolvimeto web;
 - 🖌️ Se tiver um tempinho dá um olhada no meu portfólio: https://carlos-teixeira-portfolio.vercel.app/
 - 📫 Você pode entrar em contato comigo em: teixeirahist1988@gmail.com;
